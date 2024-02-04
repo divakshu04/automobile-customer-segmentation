@@ -40,22 +40,31 @@ Requirements needed to run this project:
 After predicting groups, we can analyze different features:
 
 1. Gender vs Prediction
+  ![Gender vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/4d4d338d-e8ef-4cb5-8259-30ca6823bd79)
 
 2. Ever Married vs Prediction
+  ![Ever Married vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/57ad52f3-eb24-49cd-a455-1def2afd81f2)
 
 3. Age vs Prediction
+  ![Age vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/5dc80e4f-ddac-4c28-875c-facd17595c44)
 
-4. Graduated vs Prediction 
+4. Graduated vs Prediction
+  ![Graduated vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/d7aa2c26-0f8c-45a4-8211-5cffe077b63e)
 
 5. Profession vs Prediction
+  ![Profession vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/ebac351f-9b62-4b20-90f0-1fb7aab070a2)
 
 6. Work Experience vs Prediction
+  ![Work Experience vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/25c2a6c4-e5ae-42ea-9388-bfa289f3b1ec)
 
 7. Spending Score vs Prediction
+  ![Spending Score vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/2233a307-2a75-4c5d-be59-a22ac998d82c)
 
 8. Family Size vs Prediction
+  ![Family Size vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/b4510b5b-6041-4d9e-af41-42210252d6d4)
 
 9. Var_1 vs Prediction
+  ![Var_1 vs Prediction](https://github.com/divakshu04/automobile-customer-segmentation/assets/127183494/94e0c224-b16b-4916-b3dc-638a6c513b4c)
 
 From the above analysis we can define each groups as:
 
